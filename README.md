@@ -9,7 +9,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="www.thomsen.one/magnus" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MatHero | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="MagnusThomsen17 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="__.magnus.__ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -37,7 +36,6 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Magnus-Thomsen&show_icons=true&hide_border=true" />
 
-[website]: thomsen.one/magnus
 [twitter]: https://twitter.com/MagnusThomsen17
 [youtube]: https://www.youtube.com/channel/UCgtc4ywZWmXQppUy2-J9GKg
 [instagram]: https://www.instagram.com/__.magnus.__/
