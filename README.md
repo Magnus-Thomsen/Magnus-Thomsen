@@ -2,9 +2,7 @@
 
 ## I'm a Student and Developer
 - 🔭 I’m currently working on my higher technical exam education!
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to make music and play games
 
 ### Connect with me:
